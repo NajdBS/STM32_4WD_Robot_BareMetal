@@ -17,5 +17,3 @@ This project implements the control of a 4WD robot using STM32, with motor contr
 ## 🙌 Credits
 - Najd Ben Saad 
 
-## 📌 Notes
-- Designed as an initial bare-metal implementation of the 4WD robot system.
