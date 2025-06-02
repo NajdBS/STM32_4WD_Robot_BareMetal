@@ -12,7 +12,7 @@ This project implements the control of a 4WD robot using STM32, with motor contr
 ## 📦 Project Structure
 - src/ – Source code
 - inc/ – Header files
-![4WD Robot Architecture](images/Screenshot_Robot.png)
+![4WD Robot Architecture](images/Screenshot_Robot.jpg)
 
 ## 🙌 Credits
 - Najd Ben Saad 
